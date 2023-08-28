@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  margin: 7px;
+}
+
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+}
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+
+.text-content {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
